@@ -1,0 +1,10 @@
+Visual Art:
+    Color: [R,G,B]
+    Dimension: [X,Y,Z]
+    Shape
+
+
+Auditory Art
+    Pitch: Frequency (Hz)
+    Volume: Decibels
+    Instrumentation
